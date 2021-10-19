@@ -17,7 +17,7 @@ function Contact() {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_o40zd4m', 'template_mqctkkh', form.current, 'user_EYhBf4G8qHcd6N7MuFWaa')
+        emailjs.sendForm('service_id', 'template_id', form.current, 'user_id')
         .then((result) => {
             console.log(result.text);
             setNewCookie();

@@ -2,7 +2,7 @@
   opacity: 0;
   visibility: hidden;
   transition: opacity 2s ease-out, transform 3s ease-out;
-  will-change: opaceity, visibility;
+  will-change: opacity, visibility;
 }
 
 .fade-in.is-visible {
@@ -510,7 +510,7 @@
 
 .contact-row {
   padding-top: 100px;
-  padding-bottom: 60vh;
+  padding-bottom: 20vh;
 }
 
 .contact-wrapper {

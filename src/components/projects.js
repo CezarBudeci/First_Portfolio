@@ -11,7 +11,7 @@ function Projects() {
             </div>
             <div className = "box2"></div>
             <div className = "box3">
-                <img className = "box3-image" alt = "Coding image" src = {codingImg}/>
+                <img className = "box3-image" alt = "Coding" src = {codingImg}/>
                 <p className = "box3-title">Voting Machine</p>
                 <p className = "box3-text">
                 A voting machine web application created with RESTful Web Services.
