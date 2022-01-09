@@ -64,7 +64,7 @@ function Contact() {
                 </a>
             </div>
             <div className = "copyright">
-                <p>Designed by Anna Kot</p>
+                <p>Designed by <a href = "https://www.kotanna.com/">Anna Kot</a></p>
                 <p>Copyright © 2021 Cezar Budeci</p>
             </div>
         </div>
